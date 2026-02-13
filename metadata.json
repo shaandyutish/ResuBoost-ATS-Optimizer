@@ -1,0 +1,5 @@
+{
+  "name": "ATS-Pro",
+  "description": "A high-performance ATS (Applicant Tracking System) resume scanner that provides scoring, keyword analysis, and tailored optimization suggestions using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
